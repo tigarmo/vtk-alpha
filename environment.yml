@@ -1,0 +1,4 @@
+dependencies:
+  - python=3.7
+  - vtk==8.2.0
+name: vtk-alpha
